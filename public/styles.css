@@ -1,0 +1,27 @@
+.title {
+  margin: 2rem;
+  text-align: center;
+}
+
+.form-container,
+.table-container {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.form {
+  margin-top: 2rem;
+  padding: 1rem;
+  width: 20%;
+  border: 1px solid #d6d4d4;
+}
+
+.table {
+  width: 50%;
+  margin-top: 5rem;
+}
+
+.no-data-msg {
+  margin: 2rem;
+}
