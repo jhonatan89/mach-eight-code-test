@@ -5,7 +5,7 @@
 1. Clone repository
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/jhonatan89/mach-eight-code-test.git
    ```
 
 2. Install npm modules
